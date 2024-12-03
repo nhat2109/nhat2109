@@ -2,7 +2,7 @@
 My name is Dang Van Nhat 
 
 - 🔭 I am currently in my final year at Hanoi University of Industry, majoring in information technology.
-- 🌱 I’m a Back End developer <img src="https://www.svgrepo.com/show/303360/nodejs-logo.svg" alt="Node.js" width="30" height="30">
+- 🌱 I’m intern Back End developer <img src="https://www.svgrepo.com/show/303360/nodejs-logo.svg" alt="Node.js" width="30" height="30">
 - You can contact me at: 0704058699
 
 ## 🔧 Technologies & Tools
