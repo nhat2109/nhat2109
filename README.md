@@ -2,7 +2,7 @@
 My name is Dang Van Nhat 
 
 - 🔭 I am currently in my final year at Hanoi University of Industry, majoring in information technology.
-- 🌱 I’m Back End developer ![Nodejs]([[https://www.smartsight.in/wp-content/uploads/2021/09/NodeJS.jpg](https://cdn-icons-png.flaticon.com/512/919/919825.png](https://www.svgrepo.com/download/303360/nodejs-logo.svg)))
+- 🌱 I’m a intern Back End developer ![Node.js](https://www.svgrepo.com/show/303360/nodejs-logo.svg)logo.svg)))
 - You can contact me at: 0704058699
 
 ## 🔧 Technologies & Tools
